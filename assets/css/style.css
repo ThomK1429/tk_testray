@@ -1,0 +1,61 @@
+.jumbotron {
+  text-align: center;
+  font-family: "Bangers", cursive;
+  background-color: rgb(48, 51, 107);
+  color: whitesmoke;
+  border-radius: 20px;
+  font-size: 40px;
+  margin: 5px;
+}
+h1 {
+  font-size: 50px;
+}
+.user-button {
+  margin: 12px;
+  background-color: rgb(48, 51, 107);
+  color: whitesmoke;
+  border-radius: 5px;
+  border-color: whitesmoke;
+}
+#my-form {
+  text-align: center;
+  font-family: "Bangers", cursive;
+  background-color: rgb(48, 51, 107);
+  border-radius: 20px;
+  color: whitesmoke;
+  margin: 30px;
+}
+#user-input {
+  border-radius: 20px;
+  margin: 6px;
+}
+#myTarget {
+  text-align: center;
+  margin: 40px;
+}
+#gifs-appear-here {
+  width: 100%;
+  border-color: rgb(48, 51, 107);
+  border-width: 3px;
+}
+input {
+  border-radius: 15px;
+}
+p {
+  font-family: "Bangers", cursive;
+  text-align: center;
+}
+/* .item{
+  background-color: brown;
+  border: 50px;
+  border-color: rgb(48, 51, 107);
+} */
+.gif {
+  float: right;
+  margin: 10px;
+  border-color: blueviolet;
+  border: 5px;
+}
+body{
+  background-color: rgb(206,214,224)
+}
